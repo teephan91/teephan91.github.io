@@ -4,6 +4,10 @@ html {
     background-color: #394148;
 }
 
+body {
+    margin: 15px;
+}
+
 /* Header stylings */
 header {
     text-align: center;
@@ -22,7 +26,6 @@ header {
 }
 
 nav {
-    margin: 0 5px;
     display: flex;
     justify-content: space-between;
 }
