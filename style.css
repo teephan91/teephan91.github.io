@@ -22,7 +22,8 @@ h2 {
 }
 
 p,
-ul {
+ul,
+footer {
     font-family: 'Source Code Pro', monospace;
     font-weight: 300;
     font-size: 15px;
@@ -30,11 +31,13 @@ ul {
     color: #c9d1e6;
 }
 
-p a {
+p a,
+footer > div > a {
     color: #18e8be;
 }
 
-p a:hover {
+p a:hover,
+footer > div > a:hover {
     color:#27b498;
 }
 
@@ -154,4 +157,9 @@ li img {
 button a {
     text-decoration: none;
     color: #394148; 
+}
+
+/* Footer stylings */
+footer {
+    text-align: center;
 }
