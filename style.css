@@ -131,3 +131,27 @@ li {
 li img {
     vertical-align: middle;
 }
+
+/* Section 4 stylings */
+.section_4 {
+    margin-bottom: 50px;
+}
+.section_4 button {
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 10px peru;;
+    background-color: #fac60c;
+}
+
+.section_4 button:hover {
+    background-color: #ffe172;
+    box-shadow: 0 5px peru;
+    transform: translateY(5px);
+}
+
+button a {
+    text-decoration: none;
+    color: #394148; 
+}
