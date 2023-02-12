@@ -1,12 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Source+Code+Pro:wght@300;400;500;700&display=swap');
 
-/* In general */
+/* Shared */
 html {
     background-color: #394148;
 }
 
 body {
     margin: 15px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Source Code Pro', monospace;
+    color: #f6f6f6;
+}
+
+h1,
+h2 {
+    font-size: 22px;
 }
 
 p {
@@ -23,6 +35,12 @@ p a {
 
 p a:hover {
     color:#27b498;
+}
+
+.section_1,
+.section_2 div {
+    background-color: rgb(72, 85, 96, .7);
+    padding: 15px;
 }
 
 /* Header stylings */
@@ -59,16 +77,8 @@ nav a:hover {
 }
 
 /* Section 1 stylings */
-.section_1 {
-    background-color: rgb(72, 85, 96, .7);
-    padding: 10px;
-}
-
-h1 {
-    font-family: 'Source Code Pro', monospace;
-    font-size: 22px;
+h1 { 
     text-align: center;
-    color: #f6f6f6;
     margin: 0;
 }
 
@@ -77,4 +87,25 @@ h1 {
     border-radius: 50%;
     display: block;
     margin: 20px auto;
+}
+
+/* Section 2 stylings */
+h2 {
+    margin: 20px 0;
+}
+
+h3 {
+    font-weight: 500;
+    margin: 0 0 20px;
+}
+
+.project_1,
+.project_2 {
+    margin-bottom: 20px;
+}
+
+.calculator,
+.form,
+.sketch {
+    max-width: 100%;
 }
