@@ -280,3 +280,30 @@ footer {
         font-size: 15px;
     }
 }
+
+/* Stylings for desktops */
+@media only screen and (min-width: 1024px) {
+    body {
+        width: 1200px;
+        margin: auto;
+    }
+
+    /* Section 1 stylings */
+    .personal_photo {
+        max-width: 20%;
+    }
+
+    /* Section 2 stylings */
+    .calculator,
+    .form,
+    .sketch {
+        max-width: 40%;
+    }
+
+    .calculator:hover,
+    .form:hover,
+    .sketch:hover {
+        box-shadow: none;
+        transform: translateY(5px);
+    }
+}
