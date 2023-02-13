@@ -42,8 +42,8 @@ footer > div > a:hover {
 }
 
 .section_1,
-.section_2 div,
-.section_3 div {
+.section_2 > div,
+.section_3 > div {
     background-color: rgb(72, 85, 96, .7);
     padding: 15px;
 }
@@ -114,6 +114,8 @@ h3 {
 .form,
 .sketch {
     max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 5px rgb(250, 198, 12, .5);
 }
 
 /* Section 3 stylings */
@@ -133,6 +135,7 @@ li {
 
 li img {
     vertical-align: middle;
+    height: 32px;
 }
 
 /* Section 4 stylings */
@@ -162,4 +165,101 @@ button a {
 /* Footer stylings */
 footer {
     text-align: center;
+}
+
+/* Stylings for tablets */
+@media only screen and (min-width: 768px) {
+    /* Shared */
+    h1,
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 23px;
+    }
+
+    p,
+    ul,
+    footer {
+        font-size: 17px;
+        line-height: 2;
+    }
+
+    /* Header stylings */
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    nav {
+        gap: 25px;
+    }
+
+    /* Section 1 stylings */
+    .section_1 {
+        display: flex;
+        align-items: center;
+    }
+    h1 {
+        text-align: left;
+    }
+
+    .personal_photo {
+        max-width: 30%;
+    }
+
+    /* Section 2 stylings */
+    .section_2 > div {
+        padding-bottom: 30px;
+    }
+
+    .project_1 > div,
+    .project_2 > div,
+    .project_3 > div {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .project_1 > div > div > p,
+    .project_2 > div > div > p,
+    .project_3 > div > div > p {
+        margin-top: 0;
+    }
+
+    .calculator,
+    .form,
+    .sketch {
+        max-width: 45%;
+        border-radius: 5px;
+        box-shadow: 5px 5px rgb(250, 198, 12, .5);
+    }
+
+    /* Section 3 stylings */
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
+    }
+
+    li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 20%;
+    }
+
+    li img {
+        height: 50px;
+    }
+
+    /* Section 4 stylings */
+    button a {
+        font-size: 15px;
+    }
 }
