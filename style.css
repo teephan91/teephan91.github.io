@@ -255,6 +255,13 @@ footer {
         box-shadow: 5px 5px rgb(250, 198, 12, .5);
     }
 
+    .calculator:hover,
+    .form:hover,
+    .sketch:hover {
+        box-shadow: none;
+        transform: translateY(5px);
+    }
+
     /* Section 3 stylings */
     ul {
         display: flex;
@@ -269,6 +276,10 @@ footer {
         align-items: center;
         text-align: center;
         width: 20%;
+    }
+
+    li:hover {
+        transform: translateY(-5px);
     }
 
     li img {
@@ -298,12 +309,5 @@ footer {
     .form,
     .sketch {
         max-width: 40%;
-    }
-
-    .calculator:hover,
-    .form:hover,
-    .sketch:hover {
-        box-shadow: none;
-        transform: translateY(5px);
     }
 }
