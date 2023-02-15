@@ -42,6 +42,16 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 - [Github](https://github.com/teephan91/etch_a_sketch)  
 - [Site](https://teephan91.github.io/etch_a_sketch/)
 
+
+## Installation & Set Up
+1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
+2. To have all the files locally on your computer, open Terminal -> change the current dir to the dir you want to put this forked repo. Then enter the command line below:
+```
+git clone https://github.com/teephan91/teephan91.github.io.git
+```
+3. Have fun.
+
+
 ## Resources Used
 - [x] ![debugging](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/debugging.png) by [Flaticon](https://www.flaticon.com/free-icon/debug_2621118).
 - [x] ![technical_writing](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/technical_writing.png) by [SmashIcons - Flaticon](https://www.flaticon.com/free-icon/desktop-computer_3131620).
