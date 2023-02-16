@@ -61,6 +61,10 @@ cd [your-forked-repo-name]
 ```
 
 
+## Support
+Please feel free to reach out if you need any help with this repo. :point_right: therealthinhphan@gmail.com
+
+
 ## Resources Used
 - [x] ![debugging](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/debugging.png) by [Flaticon](https://www.flaticon.com/free-icon/debug_2621118).
 - [x] ![technical_writing](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/technical_writing.png) by [SmashIcons - Flaticon](https://www.flaticon.com/free-icon/desktop-computer_3131620).
