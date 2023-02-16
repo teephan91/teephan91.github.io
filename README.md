@@ -45,13 +45,12 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 
 ## Installation & Set Up
 1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
-    - Note: You have the option of changing the name of your forked repo.
+- **Note**: You have the option of changing the name of your forked repo.
 2. And to have all the files locally on your computer, open Terminal -> change the current directory to the directory you want to put this forked repo. Then, enter the command line below:
 ```
 git clone https://github.com/[your-username]/teephan91.github.io.git
 ```
-    
-    - Note: If you change the name of your forked repo, replace 'teephan91.github.io.git' with '[your-forked-repo-name].git'. Github will automatically do this for you when you copy the link.
+- **Note**: If you change the name of your forked repo, replace 'teephan91.github.io.git' with '[your-forked-repo-name].git'. Github will automatically do this for you when you copy the link.
 3. Finally, change to your new forked repo directory.
 ```
 cd teephan91.github.io
