@@ -50,6 +50,7 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 ```
 git clone https://github.com/[your-username]/teephan91.github.io.git
 ```
+    
     - Note: If you change the name of your forked repo, replace 'teephan91.github.io.git' with '[your-forked-repo-name].git'. Github will automatically do this for you when you copy the link.
 3. Finally, change to your new forked repo directory.
 ```
