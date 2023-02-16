@@ -2,7 +2,7 @@
 ![portfolio_readme_image](https://user-images.githubusercontent.com/101987153/218919397-a4a91929-77d7-4beb-a6ad-d4d096314f31.JPG)
 
 
-Welcome to my professional portfolio website hosted by Github Pages. Here, you'll find my featured projects, with links to their respective Github and Live Preview. This is the **first iteration** of the site, but I'll be updating it as I progress with my education. Please have a look around and feel free to reach out if anything catches your attention.
+Welcome to my professional portfolio website hosted by Github Pages. Here, you'll find my featured projects, with links to their respective Github and Live Preview. This is the *first iteration* of the site, but I'll be updating it as I progress with my education. Please have a look around and feel free to reach out if anything catches your attention.
 
 **[CLICK HERE TO VIEW THE SITE](https://teephan91.github.io)**
 
@@ -16,7 +16,7 @@ Welcome to my professional portfolio website hosted by Github Pages. Here, you'l
 
 This is an on-screen calculator, with four basic math operators plus a decimal point button. Users can turn on/off the calculator as they wish. They provide the input by clicking on the buttons or from their favorite keyboard.<br>
 - [Github](https://github.com/teephan91/calculator)  
-- [Site](https://teephan91.github.io/calculator/)
+- [Live Preview](https://teephan91.github.io/calculator/)
 
 ***
 
@@ -28,7 +28,7 @@ This is an on-screen calculator, with four basic math operators plus a decimal p
 
 This is my attempt to recreate ProofHub's sign-up form from scratch. This sign-up form is mobile-friendly. And the form validation is done via Vanilla Javascript.<br>
 - [Github](https://github.com/teephan91/form)  
-- [Site](https://teephan91.github.io/form/)
+- [Live Preview](https://teephan91.github.io/form/)
 
 ***
 
@@ -40,7 +40,7 @@ This is my attempt to recreate ProofHub's sign-up form from scratch. This sign-u
 
 This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse. They can change the size of the pad and the color of the "brush". There is also a button to clear all the sketching if users want to start over.<br>
 - [Github](https://github.com/teephan91/etch_a_sketch)  
-- [Site](https://teephan91.github.io/etch_a_sketch/)
+- [Live Preview](https://teephan91.github.io/etch_a_sketch/)
 
 
 ## Installation & Set Up
