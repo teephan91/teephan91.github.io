@@ -45,11 +45,20 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 
 ## Installation & Set Up
 1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
-2. To have all the files locally on your computer, open Terminal -> change the current dir to the dir you want to put this forked repo. Then enter the command line below:
+    - Note: You have the option of changing the name of your forked repo.
+2. And to have all the files locally on your computer, open Terminal -> change the current directory to the directory you want to put this forked repo. Then, enter the command line below:
 ```
-git clone https://github.com/teephan91/teephan91.github.io.git
+git clone https://github.com/[your-username]/teephan91.github.io.git
 ```
-3. Have fun.
+    - Note: If you change the name of your forked repo, replace 'teephan91.github.io.git' with '[your-forked-repo-name].git'. Github will automatically do this for you when you copy the link.
+3. Finally, change to your new forked repo directory.
+```
+cd teephan91.github.io
+```
+or
+```
+cd [your-forked-repo-name]
+```
 
 
 ## Resources Used
@@ -60,7 +69,7 @@ git clone https://github.com/teephan91/teephan91.github.io.git
 - [x] ![git](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/git.png) by [Icon Mela - Flaticon](https://www.flaticon.com/free-icon/git_8682420).
 - [x] ![css](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/css.png) by [Pixel Perfect - Flaticon](https://www.flaticon.com/free-icon/css-3_732190).
 - [x] Favicons were generated using the following graphics from Twitter Twemoji:
-- Graphics Title: 1f47d.svg
-- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
-- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f47d.svg
-- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+    - Graphics Title: 1f47d.svg
+    - Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+    - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f47d.svg
+    - Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
