@@ -72,10 +72,5 @@ Please feel free to reach out if you need any help with this repo. 👉🏼 ther
 - [x] ![googling](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/googling.png) by [Alfredo Hernandez - Flaticon](https://www.flaticon.com/free-icon/google-web_402041).
 - [x] ![git](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/git.png) by [Icon Mela - Flaticon](https://www.flaticon.com/free-icon/git_8682420).
 - [x] ![css](https://github.com/teephan91/teephan91.github.io/blob/f4d236e62ea883c46555c8500b266d58d323f1dc/img/css.png) by [Pixel Perfect - Flaticon](https://www.flaticon.com/free-icon/css-3_732190).
-- [x] Favicons were generated using the following graphics from Twitter Twemoji:
-    - Graphics Title: 1f47d.svg
-    - Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
-    - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f47d.svg
-    - Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ### Have a good one! 👍🏼
