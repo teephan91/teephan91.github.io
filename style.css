@@ -118,7 +118,9 @@ h3 {
 
 .project_1,
 .project_2,
-.project_3 {
+.project_3,
+.project_4,
+.project_5 {
     margin-bottom: 20px;
 }
 
@@ -235,7 +237,9 @@ footer {
 
     .project_1 > div,
     .project_2 > div,
-    .project_3 > div {
+    .project_3 > div,
+    .project_4 > div,
+    .project_5 > div {
         display: flex;
         gap: 20px;
         align-items: center;
@@ -243,7 +247,9 @@ footer {
 
     .project_1 > div > div > p,
     .project_2 > div > div > p,
-    .project_3 > div > div > p {
+    .project_3 > div > div > p,
+    .project_4 > div > div > p,
+    .project_5 > div > div > p {
         margin-top: 0;
     }
 
