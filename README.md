@@ -42,6 +42,8 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 - [Github](https://github.com/teephan91/etch_a_sketch)  
 - [Live Preview](https://teephan91.github.io/etch_a_sketch/)
 
+***
+
 ### Library
 
 <div align="center">
@@ -62,6 +64,7 @@ This program allows you to play the classic Tic Tac Toe with one of your friends
 - [Github](https://github.com/teephan91/tic_tac_toe)  
 - [Live Preview](https://teephan91.github.io/tic_tac_toe/)
 
+***
 
 ## Installation & Set Up
 1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
