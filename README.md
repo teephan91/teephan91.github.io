@@ -54,6 +54,8 @@ This is a virtual library app where users can input the author, title, and numbe
 - [Github](https://github.com/teephan91/library)  
 - [Live Preview](https://teephan91.github.io/library/)
 
+***
+
 ### Tic Tac Toe
 
 <div align="center">
@@ -64,7 +66,6 @@ This program allows you to play the classic Tic Tac Toe with one of your friends
 - [Github](https://github.com/teephan91/tic_tac_toe)  
 - [Live Preview](https://teephan91.github.io/tic_tac_toe/)
 
-***
 
 ## Installation & Set Up
 1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
