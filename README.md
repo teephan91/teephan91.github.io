@@ -42,6 +42,26 @@ This is an online Etch-A-Sketch. Users can draw on the sketchpad using the mouse
 - [Github](https://github.com/teephan91/etch_a_sketch)  
 - [Live Preview](https://teephan91.github.io/etch_a_sketch/)
 
+### Library
+
+<div align="center">
+    <img alt="An on-screen library" src="https://github.com/teephan91/teephan91.github.io/assets/101987153/d832a87d-c0d2-48e7-9f8d-b54528412bc0" width="500" />
+</div>
+
+This is a virtual library app where users can input the author, title, and number of pages of their favorite books. They can change the status of each book, to whether they've already read it or not. Users can also delete books so they have space for new ones.<br>
+- [Github](https://github.com/teephan91/library)  
+- [Live Preview](https://teephan91.github.io/library/)
+
+### Tic Tac Toe
+
+<div align="center">
+    <img alt="Classic tic tac toe game" src="https://github.com/teephan91/teephan91.github.io/assets/101987153/aa066e04-8906-4131-b314-16ee473f480d" width="500" />
+</div>
+
+This program allows you to play the classic Tic Tac Toe with one of your friends. You begin with choosing between the two marks. Then proceed to the game. You have the option of restarting mid-game. When a result is reached, win, lose or draw, the program will announce and give you a button to start over again if you like.<br>
+- [Github](https://github.com/teephan91/tic_tac_toe)  
+- [Live Preview](https://teephan91.github.io/tic_tac_toe/)
+
 
 ## Installation & Set Up
 1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
