@@ -1,8 +1,5 @@
-# Professional Portfolio 
-![portfolio_readme_image](https://user-images.githubusercontent.com/101987153/218919397-a4a91929-77d7-4beb-a6ad-d4d096314f31.JPG)
-
-
-Welcome to my professional portfolio website hosted by Github Pages. Here, you'll find my featured projects, with links to their respective Github and Live Preview. This is the *first iteration* of the site, but I'll be updating it as I progress with my education. Please have a look around and feel free to reach out if anything catches your attention.
+# Portfolio 
+Welcome to my portfolio website hosted by Github Pages. Here, you'll find my featured projects, with links to their respective Github and Live Preview. This is the *first iteration* of the site, but I'll be updating it as I progress with my education. Please have a look around and feel free to reach out if anything catches your attention.
 
 **[CLICK HERE TO VIEW THE SITE](https://teephan91.github.io)**
 
